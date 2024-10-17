@@ -1,6 +1,6 @@
 # habit-tracker
 
-*A habit-tracking tool for the University of Helsinki Fullstack project course.*
+*A habit-tracking Fullstack project course.*
 
 
 
